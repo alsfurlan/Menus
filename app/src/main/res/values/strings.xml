@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_home">Início</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_exit">Sair</string>
+    <string name="hello_world_menus">Hello World Menus!</string>
+    <string name="mensagem">Você selecionou o menu</string>
+    <string name="action_notifications">Notificações</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="alerta">Alerta!</string>
+</resources>
